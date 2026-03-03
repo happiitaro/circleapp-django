@@ -1,0 +1,5 @@
+Django==5.0.2
+gunicorn
+sentence-transformers
+torch
+numpy
