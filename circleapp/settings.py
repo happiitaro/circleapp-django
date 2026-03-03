@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-ljc_q%xomoh-*s+b_gwr)(9@e!!l@^@0k+xy+0ox5+tm@synk*
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["circleapp-django.onrender.com", "localhost", "127.0.0.1"]
 
 
 # Application definition
